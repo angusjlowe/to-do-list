@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="gradleTemplate_main" target="1.5" />
-      <module name="gradleTemplate_test" target="1.5" />
+      <module name="gradleTemplate_main" target="1.8" />
+      <module name="gradleTemplate_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

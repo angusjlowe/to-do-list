@@ -80,5 +80,13 @@ public class App {
             model.put("template", "templates/category-tasks-success.vtl");
             return new ModelAndView(model,layout);
         }, new VelocityTemplateEngine());
+
+        get("/reset", (request, response) -> {
+            Map<String,Object> model = new HashMap<String, Object>();
+            Task.clear();
+            Category.clear();
+            model.put("template", "templates/index.vtl");
+            return new ModelAndView(model,layout);
+        }, new VelocityTemplateEngine());
     }
 }

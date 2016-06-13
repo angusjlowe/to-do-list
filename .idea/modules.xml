@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleTemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleTemplate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleTemplate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleTemplate_main.iml" group="gradleTemplate" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleTemplate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleTemplate_test.iml" group="gradleTemplate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/to-do-list.iml" filepath="$PROJECT_DIR$/.idea/modules/to-do-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/to-do-list_main.iml" filepath="$PROJECT_DIR$/.idea/modules/to-do-list_main.iml" group="to-do-list" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/to-do-list_test.iml" filepath="$PROJECT_DIR$/.idea/modules/to-do-list_test.iml" group="to-do-list" />
     </modules>
   </component>
 </project>

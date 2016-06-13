@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TaskTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2016-06-13T04:17:55" hostname="DESKTOP-2O8JHGL" time="0.002">
+  <properties/>
+  <testcase name="find_returnsNullWhenNoTaskFound_null" classname="TaskTest" time="0.0"/>
+  <testcase name="isFalseAfterInstantiation" classname="TaskTest" time="0.0"/>
+  <testcase name="taskInstantiatesCorrectly" classname="TaskTest" time="0.001"/>
+  <testcase name="getId_tasksInstantiateWithAnID_1" classname="TaskTest" time="0.0"/>
+  <testcase name="allReturned" classname="TaskTest" time="0.0"/>
+  <testcase name="find_returnsTaskWithSameId_secondTask" classname="TaskTest" time="0.0"/>
+  <testcase name="taskHasCorrectDescription" classname="TaskTest" time="0.0"/>
+  <testcase name="clear_emptiesAllTasksFromArrayList_0" classname="TaskTest" time="0.001"/>
+  <testcase name="timeCreated" classname="TaskTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CategoryTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-06-13T04:17:55" hostname="DESKTOP-2O8JHGL" time="0.035">
+  <properties/>
+  <testcase name="nullFind" classname="CategoryTest" time="0.005"/>
+  <testcase name="addTasks" classname="CategoryTest" time="0.028"/>
+  <testcase name="testFind" classname="CategoryTest" time="0.0"/>
+  <testcase name="instantiationTest" classname="CategoryTest" time="0.0"/>
+  <testcase name="initialGetTasks" classname="CategoryTest" time="0.0"/>
+  <testcase name="getID" classname="CategoryTest" time="0.0"/>
+  <testcase name="returnMultipleCategories" classname="CategoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
